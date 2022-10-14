@@ -10,7 +10,8 @@ int main(void)
 
 	for (i = 0; i < 16; i++)
 	{
-		putchar(hex[i])
-		putchar("\n")
-		return (0)
+		putchar(hex[i]);
+		putchar("\n");
+		return (0);
 	}
+}
