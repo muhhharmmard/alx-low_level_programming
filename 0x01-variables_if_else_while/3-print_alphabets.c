@@ -16,4 +16,5 @@ int main(void)
 	{
 		putchar(j);
 		return (0);
+	}
 }
